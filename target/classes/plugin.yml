@@ -1,0 +1,13 @@
+name: BedWarsX
+version: '1.0'
+main: net.alterrastudios.bedwars.BedWars
+api-version: '1.16'
+authors: [MrFil_27]
+description: A bedwars plugin
+commands:
+  setup-bedwars:
+    usage: /<command>
+    description: "Setup a bedwars"
+  start-bedwars:
+    usage: /<command>
+    description: "Start a bedwars"
